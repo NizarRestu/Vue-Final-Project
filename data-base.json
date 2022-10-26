@@ -1,0 +1,286 @@
+{
+  "akuns": [
+    {
+      "username": "admin",
+      "password": "password",
+      "pin": 123,
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "username": "user",
+      "password": "user",
+      "pin": 111,
+      "role": "user",
+      "id": 2
+    }
+  ],
+  "berats": [
+    {
+      "nama": "Bakso Malang",
+      "deskripsi": "Bakso Malang adalah hidangan bakso yang banyak ditemui di seluruh belahan Kota Malang",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2018/11/15/394866d4-0ebf-40b5-95cc-a8475a152b92_11.jpeg?w=700&q=90",
+      "expired": "Expired 1 hari",
+      "harga": 12000,
+      "id": 1
+    },
+    {
+      "nama": "Mie Ayam",
+      "deskripsi": "Mie Ayam adalah hidangan khas Indonesia yang terbuat dari mie gandum yang dibumbui dengan daging ayam yang biasanya dipotong dadu",
+      "image": "https://images.tokopedia.net/img/KRMmCm/2022/8/15/a4b7d013-9438-46b2-906b-4c374ec82236.jpg",
+      "expired": "Expired 1 hari",
+      "harga": 10000,
+      "id": 2
+    },
+    {
+      "nama": "Rica Rica Biawak",
+      "deskripsi": "Makanan ekstrem yang terbuat dari daging biawak liar",
+      "image": "https://1.bp.blogspot.com/-ML-h-jE8Sn0/WgzueUSn-ZI/AAAAAAAAI-M/K40j9Uw9SQU4PSfKGgjvIXATkF9yIadbACLcBGAs/s1600/7.JPG",
+      "expired": "Expired 1 hari",
+      "harga": 25000,
+      "id": 10
+    }
+  ],
+  "ringans": [
+    {
+      "nama": "Kacang Atom",
+      "deskripsi": "Di paanggang bukan di goreng",
+      "image": "https://s0.bukalapak.com/img/57170785551/large/kacang_atom_pic_1.jpg",
+      "expired": "Expired 30-09-23",
+      "harga": 5000,
+      "id": 1
+    },
+    {
+      "nama": "Kuaci",
+      "deskripsi": "Dari biji Mata Hari Plihan",
+      "image": "https://assets.klikindomaret.com/share/20093909_1.jpg",
+      "expired": "Expired 30-09-23",
+      "harga": 5000,
+      "id": 2
+    },
+    {
+      "nama": "Krupuk kulit",
+      "deskripsi": "Dari kulit Mata Hari Plihan",
+      "image": "https://cdn0-production-images-kly.akamaized.net/szcT3TR2gBo-DimULAauJazz6GI=/261x0:4422x4161/1200x1200/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3764835/original/080039900_1640058116-shutterstock_1820787197.jpg",
+      "expired": "Expired 30-09-23",
+      "harga": 5000,
+      "id": 3
+    },
+    {
+      "nama": "Makroni Pedas",
+      "deskripsi": "Dari adonan Pilihan Dan Rasa Pedas Yang Nikmat ",
+      "image": "https://s1.bukalapak.com/img/16712441992/s-463-463/data.jpeg.webp",
+      "expired": "Expired 30-09-23",
+      "harga": 5000,
+      "id": 4
+    }
+  ],
+  "minumans": [
+    {
+      "nama": "Es Teh",
+      "deskripsi": "Penelitian lainnya juga menunjukkan teh dapat membantu melindungi gigi, organ jantung dan melindungi kanker. Selain itu, kebiasaan minum teh setiap hari juga membantu tubuh mendapatkan asupan cairan yang memadai",
+      "image": "https://portal.riau24.com/news/20210701/riau24_1625114235.jpg",
+      "expired": "Expired 2 hari",
+      "harga": 3000,
+      "id": 1
+    },
+    {
+      "nama": "minuman Obat darah cobra",
+      "deskripsi": "Sebuah penelitian mengatakan bahwa makan empedu ular hitam mampu membantu mengobati kusta. Sementara itu, untuk ular kobra, konsumsi empedu dan darahnya diyakini mampu meningkatkan stamina pria.",
+      "image": "https://statik.tempo.co/data/2013/02/19/id_168273/168273_620.jpg",
+      "expired": "Expired 1 hari",
+      "harga": 50000,
+      "id": 1
+    },
+    {
+      "nama": "es jeruk",
+      "deskripsi": "Selain menyegarkan, jus jeruk ini memiliki banyak manfaat bagi tubuh kita, yaitu sebagai berikut :",
+      "image": "https://cf.shopee.co.id/file/cc0714e6fa21ca8dafc0e6c289e28c8e",
+      "expired": "Expired 1 hari",
+      "harga": 5000,
+      "id": 1
+    }
+  ],
+  "obats": [
+    {
+      "nama": "Koyo",
+      "deskripsi": "KOYO CABE SACHET digunakan untuk membantu meredakan rasa nyeri yang disebabkan oleh nyeri otot, sakit otot leher, pegal-pegal, sakit kepala, sakit gigi, memar, terkilir dan nyeri sendi",
+      "image": "https://d2qjkwm11akmwu.cloudfront.net/products/18561-1665791554.jpeg",
+      "expired": "Expired 20-08-24",
+      "harga": 4500,
+      "id": 1
+    },
+    {
+      "nama": "Pil Koplo",
+      "deskripsi": "Pil koplo termasuk dalam golongan psikotropika yang memiliki khasiat psikoaktif melalui saraf pusat, obat – obatan ini dapat menyebabkan perubahan aktivitas mental dan perilaku penggunanya.",
+      "image": "http://2.bp.blogspot.com/_g8lyW3t4pgA/TKJ2-JxBUqI/AAAAAAAAAag/skxUPNxdzX4/s320/berhasil-diamankan.jpg",
+      "expired": "Expired 20-08-24",
+      "harga": 5000,
+      "id": 1
+    },
+    {
+      "nama": "Tolak Angin",
+      "deskripsi": "Untuk masuk angin dengan gejala kembung, mual, sakit perut, pusing, meriang, dan tenggorokan kering",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQml5Ht3SqdDnYGCRU6KbUPyKy6zCebrlbT7nI0U77Ggg&s",
+      "expired": "Expired 20-08-24",
+      "harga": 4500,
+      "id": 1
+    }
+  ],
+  "sembakos": [
+    {
+      "nama": "Beras",
+      "deskripsi": "Beras Makanan Pokok Indonesia",
+      "image": "https://cdf.orami.co.id/unsafe/cdn-cas.orami.co.id/parenting/images/5_Jenis_Beras_yang_Ada_di_Indone.original.jpegquality-90_mOYa7rl.jpg",
+      "expired": "Expired 27-01-23",
+      "harga": 120000,
+      "id": 1
+    },
+    {
+      "nama": "Tembaku",
+      "deskripsi": "Tembakau dapat dikonsumsi, digunakan sebagai pestisida, dan dalam bentuk nikotin tartrat dapat digunakan sebagai obat. ",
+      "image": "https://www.lamunre-belopautara.desa.id/desa/upload/artikel/sedang_1638261073_Jenis%20Tembakau%20Terbaik%20Di%20Indonesia.jpg",
+      "expired": "Expired 27-01-23",
+      "harga": 50000,
+      "id": 1
+    },
+    {
+      "nama": "Miyak Goreng",
+      "deskripsi": "Minyak goreng mengandung lemak yang dibutuhkan oleh tubuh. Lemak membantu tubuh kenyang lebih lama dan mendukung berat badan ideal. Lemak cair seperti minyak memiliki nutrisi yang baik jika dikonsumsi dengan benar",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/02/20/krisis-minyak-cowok-ini-bawa-minyak-goreng-saat-main-ke-rumah-pacar_43.jpeg?w=1200",
+      "expired": "Expired 27-01-23",
+      "harga": 50000,
+      "id": 1
+    }
+  ],
+  "anaks": [
+    {
+      "nama": "My Baby Sampo",
+      "deskripsi": "Membuat rambut semakin halus",
+      "image": "https://static.hdmall.id/750x450/system/image_attachments/images/000/001/465/original/my-baby-shampoo-black-shine-pouch-200-ml-1.jpg",
+      "expired": "Expired 23-09-23",
+      "harga": 21000,
+      "id": 1
+    },
+    {
+      "nama": "Kelambu Bayi",
+      "deskripsi": "Untuk MEncegah Bayi Digigit Nyamuk",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//99/MTA-6357267/babymoonlight_kasur_set_kelambu_baby_-_travel_time_full06_j9p3fbei.jpg",
+      "expired": "Expired 23-09-23",
+      "harga": 210000,
+      "id": 2
+    },
+    {
+      "nama": "Dot Bayi",
+      "deskripsi": "Untuk Tempat Susu ",
+      "image": "https://images.philips.com/is/image/philipsconsumer/345d97e46c624b72a779ac5401867e9a?$jpglarge$&wid=960",
+      "expired": "Expired 23-09-23",
+      "harga": 15000,
+      "id": 3
+    }
+  ],
+  "perlengkapans": [
+    {
+      "nama": "Buku Tulis",
+      "deskripsi": "Buku Jembatan Ilmu",
+      "image": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/Buku-ilustrasi.jpg",
+      "expired": "Garansi Sebelum di buka",
+      "harga": 12000,
+      "id": 1
+    },
+    {
+      "nama": "Bolpen",
+      "deskripsi": "Untuk Menulis",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//97/MTA-3981652/carinex_carinex_cnx8803_bolpen_gel_hi-tech_0-28_mm_full03.jpg",
+      "expired": "Garansi Sebelum di buka",
+      "harga": 5500,
+      "id": 2
+    },
+    {
+      "nama": "Pensil",
+      "deskripsi": "Untuk Menulis",
+      "image": "https://faber-castell.co.id/cfind/thumbs/thumb/images/product/gwm/700x700-gwm/thumb_450_450_cover_contain_w700_h700_117102pr.jpg.png",
+      "expired": "Garansi Sebelum di buka",
+      "harga": 3000,
+      "id": 3
+    }
+  ],
+  "kuotas": [
+    {
+      "nama": "Voucer Telkomsel 1,5Gb",
+      "deskripsi": "Sinyal Tercepat Di Indonesia",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/Sa157a5c7e1c34ce79f30aa6ad4fd32edb.jpg_720x720q80.jpg_.webp",
+      "expired": "Expired 3 Hari",
+      "harga": 9000,
+      "id": 1
+    },
+    {
+      "nama": "Voucer SmartFren 2,5Gb",
+      "deskripsi": "Sinyal Termurah  Di Indonesia",
+      "image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/11/28/071cf48d-3282-4e77-97d0-e864540d9e57.jpg",
+      "expired": "Expired 3 Hari",
+      "harga": 7000,
+      "id": 2
+    },
+    {
+      "nama": "Voucer SmartFren 6 Gb",
+      "deskripsi": "Sinyal Selalu Ada Di Indonesia",
+      "image": "https://s3-ap-southeast-1.amazonaws.com/data-pesanan/images/322/products/16179413046911_voucher_xl_xtra_combo_lite_35_gb_paket_data_kuota_xl.png",
+      "expired": "Expired 30 Hari",
+      "harga": 25000,
+      "id": 3
+    }
+  ],
+  "elektroniks": [
+    {
+      "nama": "Lampu Serbaguna",
+      "deskripsi": "Bisa Party Karna Di Lengkapi Lampu Disco",
+      "image": "https://www.jakartanotebook.com/images/products/67/1020/39773/3/taffled-lampu-bohlam-rgb-dengan-remote-control-e27-3w-b2-white-249.JPG",
+      "expired": "Garansi  30 Hari",
+      "harga": 30000,
+      "id": 1
+    },
+    {
+      "nama": "Kulkas 4 Pintu",
+      "deskripsi": "Untuk Mendinginkan Bahan Makanan",
+      "image": "https://www.electrolux.co.id/globalassets/appliances/refrigerators/french-door/eqe6879a-b-id/eqe6879a-b-fr-cl-1500x1500-min.png",
+      "expired": "Garansi  1 Tahun",
+      "harga": 24000000,
+      "id": 2
+    },
+    {
+      "nama": "Tv Led HDR",
+      "deskripsi": "Untuk Nonton Lebih Hd",
+      "image": "https://www.sony.co.id/image/f161a88d5921dbaa007f98e46074bc1b?fmt=png-alpha&wid=960",
+      "expired": "Garansi  1 Tahun",
+      "harga": 4000000,
+      "id": 3
+    }
+  ],
+  "mainans": [
+    {
+      "nama": "Drone Pahntom 4",
+      "deskripsi": "Buat Ngintip Orang mandi Jadi HD",
+      "image": "https://images.tokopedia.net/img/cache/700/attachment/2021/11/6/162840464/162840464_c9ece912-3c37-440c-bdd0-b39f0cdbd8d5.jpg",
+      "expired": "Garansi 6 Bulan",
+      "harga": 20000000,
+      "id": 1
+    },
+    {
+      "nama": "Truk mainan",
+      "deskripsi": "Untuk Mengangkut Pasir Lebih  Mudah",
+      "image": "https://s1.bukalapak.com/img/67415254461/large/data.jpeg.webp",
+      "expired": "Garansi Oli 1 Kali Ganti",
+      "harga": 20000,
+      "id": 1
+    },
+    {
+      "nama": " mainan Motor Drag",
+      "deskripsi": "Untuk Balapan dan Bensin Hemat",
+      "image": "https://cf.shopee.co.id/file/0e3d9534d9b317fba78247bd43f4e4c6",
+      "expired": "Garansi  sebelum Dibuka",
+      "harga": 30000,
+      "id": 3
+    }
+  ]
+}
